@@ -1,0 +1,164 @@
+,Actual Location,Clouds(%),Country,Date,Humidity(%),Latitude,Longitude,Max_temp,Min_temp,Pressure(hpa),Returned Location,Temparature(in celcius),Time,Weather_Condition,Weather_Description,Wind_Speed(m/s)
+0,Cheras,75,MY,06/29/2018,69,3.1072,101.7165,28.0,26.0,1012,Cheras,26.93,13:01:32,Rain,light rain,3.6
+1,Sandakan,75,MY,06/29/2018,59,5.8402,118.1179,32.0,32.0,1008,Sandakan,32.0,13:01:33,Clouds,broken clouds,1.5
+2,Kajang,75,MY,06/29/2018,94,2.99,101.7886,28.0,26.0,1011,Kajang,27.01,13:01:34,Rain,light rain,1.5
+3,Seremban,75,MY,06/29/2018,94,2.7248,101.9345,28.0,25.0,1011,Seremban,26.35,13:01:35,Rain,light rain,1.5
+4,Kuantan,75,MY,06/29/2018,78,3.8197,103.3292,28.0,28.0,1010,Kuantan,28.0,13:01:36,Clouds,broken clouds,2.1
+5,Tawau,75,MY,06/29/2018,70,4.2635,117.893,31.0,31.0,1009,Tawau,31.0,13:01:37,Clouds,broken clouds,4.1
+6,Kuala Terengganu,75,MY,06/29/2018,70,5.3302,103.1408,31.0,31.0,1009,Kuala Terengganu,31.0,13:01:38,Clouds,broken clouds,2.1
+7,Miri,75,MY,06/29/2018,66,4.4148,114.0089,31.0,31.0,1009,Miri,31.0,13:01:39,Clouds,broken clouds,3.6
+8,Kota Bharu,75,MY,06/29/2018,66,6.1256,102.2393,31.0,30.0,1009,Kota Bharu,30.39,13:01:40,Clouds,broken clouds,1.5
+9,Selayang Baru,75,MY,06/29/2018,69,3.21,101.64,-245.15,-247.15,1012,Kepong,-246.27,13:01:41,Rain,light rain,3.6
+10,Subang Jaya,75,MY,06/29/2018,69,3.0568,101.5855,28.0,26.0,1012,Subang Jaya,26.92,13:01:42,Rain,light rain,3.6
+11,Kuala Lumpur,75,MY,06/29/2018,69,3.1547,101.7136,28.0,26.0,1012,Kuala Lumpur,26.92,13:01:43,Rain,light rain,3.6
+12,Klang,75,MY,06/29/2018,69,3.0472,101.4492,28.0,26.0,1012,Klang,26.91,13:01:44,Rain,light rain,3.6
+13,Johor Bahru,75,MY,06/29/2018,88,1.4953,103.7551,26.0,24.0,1011,Johor Bahru,24.74,13:01:45,Thunderstorm,thunderstorm,1.5
+14,Ampang,75,MY,06/29/2018,69,3.1521,101.7322,28.0,26.0,1012,Ampang,26.92,13:01:46,Rain,light rain,3.6
+15,Ipoh,90,MY,06/29/2018,100,4.592,101.0833,25.0,22.0,1013,Ipoh,23.77,13:01:47,Rain,heavy intensity rain,2.1
+16,Shah Alam,75,MY,06/29/2018,69,3.0686,101.5183,28.0,26.0,1012,Shah Alam,26.9,13:01:48,Rain,light rain,3.6
+17,Kuching,75,MY,06/29/2018,74,1.5574,110.344,29.0,29.0,1010,Kuching,29.0,13:01:49,Clouds,broken clouds,2.6
+18,Petaling Jaya,75,MY,06/29/2018,69,3.1056,101.6427,28.0,26.0,1012,Petaling Jaya,26.91,13:01:50,Rain,light rain,3.6
+19,Kota Kinabalu,75,MY,06/29/2018,66,5.978,116.0729,32.0,32.0,1009,Kota Kinabalu,32.0,13:01:51,Clouds,broken clouds,1.5
+20,George Town,75,MY,06/29/2018,83,5.4166,100.3304,26.0,26.0,1010,George Town,26.0,13:01:52,Rain,light rain,4.6
+21,Iskandar Puteri,75,MY,06/29/2018,88,1.4266,103.6402,26.0,24.0,1011,Iskandar Puteri,24.74,13:01:53,Rain,moderate rain,1.5
+22,Melaka ,75,MY,06/29/2018,94,2.196,102.2405,25.0,25.0,1011,Melaka,25.0,13:01:54,Rain,light rain,4.71
+23,Alor Setar,75,MY,06/29/2018,79,6.1232,100.3684,29.0,29.0,1010,Alor Setar,29.0,13:01:55,Clouds,broken clouds,5.1
+24,Bintulu,75,MY,06/29/2018,74,3.1667,113.0333,30.0,30.0,1009,Bintulu,30.0,13:01:56,Clouds,broken clouds,2.6
+25,Kampung Baru Subang,75,MY,06/29/2018,69,3.15,101.5333,28.0,26.0,1012,Kampung Baru Subang,26.86,13:01:56,Rain,light rain,3.6
+26,Kota Bharu,75,MY,06/29/2018,66,6.1256,102.2393,31.0,30.0,1009,Kota Bharu,30.39,13:01:57,Clouds,broken clouds,1.5
+27,Sungai Petani,75,MY,06/29/2018,83,5.6439,100.4916,29.0,26.0,1010,Sungai Petani,27.06,13:01:58,Rain,light rain,4.6
+28,Taiping,90,MY,06/29/2018,100,4.8478,100.7372,22.0,22.0,1013,Taiping,22.0,13:01:59,Rain,heavy intensity rain,2.1
+29,Bukit Mertajam,75,MY,06/29/2018,83,5.3637,100.456,26.0,26.0,1010,Bukit Mertajam,26.0,13:02:00,Rain,light rain,4.6
+30,Sepang,75,MY,06/29/2018,94,2.6924,101.7502,28.0,26.0,1011,Sepang,27.15,13:02:01,Rain,light rain,1.5
+31,Sibu,75,MY,06/29/2018,70,2.2907,111.8263,30.0,30.0,1009,Sibu,30.0,13:02:02,Clouds,broken clouds,2.1
+32,Kulim,75,MY,06/29/2018,83,5.3708,100.5547,26.0,26.0,1010,Kulim,26.0,13:02:03,Rain,light rain,4.6
+33,Kluang,75,MY,06/29/2018,88,2.0353,103.3205,26.0,26.0,1011,Kluang,26.0,13:02:04,Thunderstorm,thunderstorm,3.1
+34,Skudai,75,MY,06/29/2018,88,1.5469,103.6593,26.0,24.0,1011,Skudai,24.73,13:02:05,Rain,moderate rain,1.5
+35,Batu Pahat,36,MY,06/29/2018,85,1.85,102.9363,29.45,29.45,1018.8,Batu Pahat,29.45,13:02:06,Clouds,scattered clouds,4.01
+36,Kampung Pasir Gudang Baru,75,MY,06/29/2018,88,1.4726,103.878,26.0,24.0,1011,Kampung Pasir Gudang Baru,24.76,13:02:07,Thunderstorm,thunderstorm,1.5
+37,Kampung Sungai Ara,75,MY,06/29/2018,88,5.327,100.2735,26.0,26.0,1011,Kampung Sungai Ara,26.0,13:02:08,Rain,light rain,2.1
+38,Tasek Glugor,75,MY,06/29/2018,83,5.4803,100.4985,26.0,26.0,1010,Tasek Glugor,26.0,13:02:09,Rain,light rain,4.6
+39,Muar,75,MY,06/29/2018,94,2.0432,102.5667,25.0,25.0,1011,Muar,25.0,13:02:10,Rain,light rain,4.96
+40,Rawang,75,MY,06/29/2018,69,3.3204,101.5766,28.0,26.0,1012,Rawang,26.85,13:02:11,Rain,light rain,3.6
+41,Butterworth,75,MY,06/29/2018,83,5.3954,100.3749,26.0,26.0,1010,Butterworth,26.0,13:02:12,Rain,light rain,4.6
+42,Lahad Datu,20,MY,06/29/2018,100,5.0216,118.3276,26.35,26.35,1000.24,Lahad Datu,26.35,13:02:13,Rain,moderate rain,1.66
+43,Semenyih,75,MY,06/29/2018,94,2.9483,101.8427,28.0,26.0,1011,Semenyih,27.04,13:02:14,Rain,light rain,1.5
+44,Port Dickson,75,MY,06/29/2018,94,2.5229,101.7945,26.0,25.0,1011,Port Dickson,25.45,13:02:15,Rain,light rain,1.5
+45,Cukai,75,MY,06/29/2018,70,4.25,103.4167,30.0,28.0,1009,Cukai,28.91,13:02:16,Clouds,broken clouds,2.1
+46,Putatan,75,MY,06/29/2018,66,5.8833,116.05,32.0,32.0,1009,Putatan,32.0,13:02:17,Clouds,broken clouds,1.5
+47,Keningau,75,MY,06/29/2018,66,5.3288,116.1555,32.0,32.0,1009,Keningau,32.0,13:02:18,Clouds,broken clouds,1.5
+48,Ulu Tiram,75,MY,06/29/2018,88,1.6051,103.8239,26.0,24.0,1011,Ulu Tiram,24.74,13:02:19,Rain,moderate rain,1.5
+49,Victoria,75,MY,06/29/2018,79,5.2767,115.2417,32.0,30.0,1009,Victoria,31.16,13:02:20,Clouds,broken clouds,2.1
+50,Taman Senai,75,MY,06/29/2018,88,1.6006,103.6419,26.0,24.0,1011,Taman Senai,24.73,13:02:20,Rain,moderate rain,1.5
+51,Donggongon,75,MY,06/29/2018,66,5.907,116.1015,32.0,32.0,1009,Donggongon,32.0,13:02:21,Clouds,broken clouds,1.5
+52,Segamat,75,MY,06/29/2018,94,2.5064,102.8151,25.0,25.0,1011,Segamat,25.0,13:02:23,Rain,light rain,2.21
+53,Kampong Baharu Balakong,75,MY,06/29/2018,69,3.0333,101.75,28.0,26.0,1012,Kampong Baharu Balakong,26.98,13:02:23,Rain,light rain,3.6
+54,Perai,75,MY,06/29/2018,83,5.3778,100.382,26.0,26.0,1010,Prai,26.0,13:02:24,Rain,light rain,4.6
+55,Kangar,75,MY,06/29/2018,79,6.4389,100.1945,31.0,29.0,1010,Kangar,29.69,13:02:26,Clouds,broken clouds,5.1
+56,Kulai,75,MY,06/29/2018,88,1.6569,103.6059,26.0,24.0,1011,Kulai,24.72,13:02:26,Rain,moderate rain,1.5
+57,Jitra,75,MY,06/29/2018,79,6.2692,100.4168,29.0,29.0,1010,Jitra,29.0,13:02:27,Clouds,broken clouds,5.1
+58,Teluk Intan,90,MY,06/29/2018,88,4.0232,101.0262,25.0,22.0,1011,Teluk Intan,23.4,13:02:28,Rain,heavy intensity rain,2.1
+59,Semporna,75,MY,06/29/2018,70,4.48,118.6117,31.0,31.0,1009,Semporna,31.0,13:02:29,Clouds,broken clouds,4.1
+60,Putra Heights,75,MY,06/29/2018,69,2.9957,101.5671,28.0,26.0,1012,Putra Heights,26.95,13:02:30,Rain,light rain,3.6
+61,Temerluh,12,MY,06/29/2018,73,3.4506,102.4176,30.45,30.45,1009.97,Temerluh,30.45,13:02:31,Clouds,few clouds,1.41
+62,Kampong Dungun,75,MY,06/29/2018,69,3.2167,101.3167,28.0,26.0,1012,Kampong Dungun,26.85,13:02:32,Rain,light rain,3.6
+63,Simpang Empat,75,MY,06/29/2018,94,2.4362,102.1844,26.0,25.0,1011,Simpang Empat,25.57,13:02:33,Rain,light rain,4.71
+64,Kuala Selangor,75,MY,06/29/2018,69,3.3407,101.2496,28.0,28.0,1012,Kuala Selangor,28.0,13:02:34,Clouds,broken clouds,3.6
+65,Kampung Bukit Baharu,75,MY,06/29/2018,94,2.2152,102.2851,25.0,25.0,1011,Kampung Bukit Baharu,25.0,13:02:35,Rain,light rain,4.71
+66,Bandar Labuan,75,MY,06/29/2018,79,5.2888,115.2692,32.0,30.0,1009,Bandar Labuan,31.17,13:02:36,Clouds,broken clouds,2.1
+67,Kota Tinggi,75,MY,06/29/2018,88,1.7331,103.9015,26.0,24.0,1011,Kota Tinggi,24.74,13:02:37,Rain,moderate rain,1.5
+68,Pontian Kechil,75,MY,06/29/2018,88,1.4866,103.3896,26.0,24.0,1011,Pontian Kechil,24.73,13:02:38,Rain,moderate rain,1.5
+69,Putrajaya,75,MY,06/29/2018,94,2.907,101.6751,28.0,26.0,1011,Putrajaya,27.03,13:02:39,Rain,light rain,1.5
+70,Bentong Town,75,MY,06/29/2018,69,3.5167,101.9,28.0,28.0,1012,Bentong Town,28.0,13:02:40,Clouds,broken clouds,3.6
+71,Banting,75,MY,06/29/2018,94,2.8171,101.4995,28.0,26.0,1011,Banting,27.03,13:02:41,Rain,light rain,1.5
+72,Bedong,75,MY,06/29/2018,83,5.7275,100.5095,29.0,26.0,1010,Bedong,27.02,13:02:41,Rain,light rain,4.6
+73,Batu Gajah,90,MY,06/29/2018,100,4.4705,101.037,25.0,22.0,1013,Batu Gajah,23.67,13:02:42,Rain,heavy intensity rain,2.1
+74,Mentekab,12,MY,06/29/2018,73,3.4854,102.3484,30.45,30.45,1009.97,Mentekab,30.45,13:02:43,Clouds,few clouds,1.41
+75,Nibong Tebal,75,MY,06/29/2018,88,5.1698,100.4775,26.0,26.0,1011,Nibong Tebal,26.0,13:02:44,Rain,light rain,2.1
+76,Raub,20,MY,06/29/2018,85,3.7913,101.8535,27.8,27.8,982.09,Raub,27.8,13:02:45,Rain,light rain,1.51
+77,Kampong Pangkal Kalong,75,MY,06/29/2018,66,5.9167,102.2167,31.0,31.0,1009,Kampong Pangkal Kalong,31.0,13:02:46,Clouds,broken clouds,1.5
+78,Lumut,90,MY,06/29/2018,88,4.2323,100.6298,25.0,22.0,1011,Lumut,23.23,13:02:47,Rain,heavy intensity rain,2.1
+79,Kuala Kangsar,90,MY,06/29/2018,100,4.7721,100.9409,25.0,22.0,1013,Kuala Kangsar,23.71,13:02:48,Rain,heavy intensity rain,2.1
+80,Klebang Besar,75,MY,06/29/2018,94,2.2186,102.1995,25.0,25.0,1011,Klebang Besar,25.0,13:02:49,Rain,light rain,4.71
+81,Kampung Ayer Keroh,75,MY,06/29/2018,94,2.2654,102.2801,25.0,25.0,1011,Kampung Ayer Keroh,25.0,13:02:50,Rain,light rain,4.71
+82,Kampung Baharu Nilai,75,MY,06/29/2018,94,2.8033,101.7972,28.0,26.0,1011,Kampung Baharu Nilai,27.11,13:02:51,Rain,light rain,1.5
+83,Tangkak,75,MY,06/29/2018,94,2.267,102.54,25.0,25.0,1011,Tangkak,25.0,13:02:52,Rain,light rain,2.21
+84,Jerantut,0,MY,06/29/2018,72,3.9359,102.3652,29.65,29.65,987.92,Jerantut,29.65,13:02:53,Clear,Sky is Clear,1.16
+85,Kudat,75,MY,06/29/2018,74,6.8895,116.8431,30.0,30.0,1008,Kudat,30.0,13:02:53,Clouds,broken clouds,1
+86,Pekan,75,MY,06/29/2018,78,3.4901,103.3937,28.0,28.0,1010,Pekan,28.0,13:02:54,Clouds,broken clouds,2.1
+87,Bahau,75,MY,06/29/2018,94,2.8087,102.3964,25.0,25.0,1011,Bahau,25.0,13:02:55,Rain,light rain,1.46
+88,Bakri,75,MY,06/29/2018,94,2.05,102.6667,25.0,25.0,1011,Bakri,25.0,13:02:56,Rain,light rain,4.96
+89,Kuah,75,MY,06/29/2018,74,6.3265,99.8432,29.0,29.0,1010,Kuah,29.0,13:02:57,Clouds,broken clouds,2.6
+90,Bidur,90,MY,06/29/2018,100,4.1167,101.2833,25.0,22.0,1013,Bidur,23.56,13:02:58,Rain,heavy intensity rain,2.1
+91,Sarikei,75,MY,06/29/2018,70,2.1295,111.5231,30.0,30.0,1009,Sarikei,30.0,13:02:59,Clouds,broken clouds,2.1
+92,Kampong Masjid Tanah,75,MY,06/29/2018,94,2.35,102.1167,26.0,25.0,1011,Kampong Masjid Tanah,25.58,13:03:00,Rain,light rain,4.71
+93,Tanah Merah,75,MY,06/29/2018,83,5.721,100.3925,29.0,26.0,1010,Tanah Merah,27.03,13:03:01,Rain,light rain,4.6
+94,Serendah,75,MY,06/29/2018,69,3.3646,101.6062,28.0,26.0,1012,Serendah,26.85,13:03:02,Rain,light rain,3.6
+95,Tampin,75,MY,06/29/2018,94,2.4672,102.2358,26.0,25.0,1011,Tampin,25.58,13:03:03,Rain,light rain,4.71
+96,Tapah Road,90,MY,06/29/2018,100,4.1697,101.1965,25.0,22.0,1013,Tapah Road,23.55,13:03:04,Rain,heavy intensity rain,2.1
+97,Parit Buntar,75,MY,06/29/2018,88,5.1314,100.487,26.0,26.0,1011,Parit Buntar,26.0,13:03:05,Rain,light rain,2.1
+98,Simanggang,75,MY,06/29/2018,78,1.2472,111.4528,28.0,28.0,1010,Simanggang,28.0,13:03:06,Clouds,broken clouds,2.1
+99,Permatang Kuching,75,MY,06/29/2018,83,5.4634,100.3814,26.0,26.0,1010,Permatang Kuching,26.0,13:03:07,Rain,light rain,4.6
+100,Yong Peng,36,MY,06/29/2018,85,2.0111,103.0666,29.45,29.45,1018.8,Yong Peng,29.45,13:03:07,Clouds,scattered clouds,4.01
+101,Sungai Besar,90,MY,06/29/2018,88,3.6774,100.9864,25.0,25.0,1011,Sungai Besar,25.0,13:03:08,Clouds,overcast clouds,2.1
+102,Limbang,75,MY,06/29/2018,59,4.75,115,32.0,30.0,1009,Limbang,30.84,13:03:09,Clouds,broken clouds,1.5
+103,Sungai Udang,75,MY,06/29/2018,94,2.3134,102.1246,26.0,25.0,1011,Sungai Udang,25.59,13:03:10,Rain,light rain,4.71
+104,Batu Berendam,75,MY,06/29/2018,94,2.2475,102.2474,25.0,25.0,1011,Batu Berendam,25.0,13:03:11,Rain,light rain,4.71
+105,Jenjarum,75,MY,06/29/2018,94,2.8833,101.5,28.0,26.0,1011,Jenjarum,27.0,13:03:12,Rain,light rain,1.5
+106,Kertih,75,MY,06/29/2018,70,4.5141,103.4483,30.0,30.0,1009,Kertih,30.0,13:03:13,Clouds,broken clouds,2.1
+107,Tanjung Tokong,75,MY,06/29/2018,83,5.4461,100.3053,26.0,26.0,1010,Tanjung Tokong,26.0,13:03:14,Rain,light rain,4.6
+108,Ladang Seri Kundang,75,MY,06/29/2018,69,3.2856,101.519,28.0,26.0,1012,Ladang Seri Kundang,26.84,13:03:15,Rain,light rain,3.6
+109,Pekan Nenas,75,MY,06/29/2018,88,1.51,103.5141,26.0,24.0,1011,Pekan Nenas,24.73,13:03:16,Rain,moderate rain,1.5
+110,Peringat,75,MY,06/29/2018,66,5.9873,102.2957,31.0,31.0,1009,Peringat,31.0,13:03:17,Clouds,broken clouds,1.5
+111,Batu Arang,75,MY,06/29/2018,69,3.3107,101.4913,28.0,26.0,1012,Batu Arang,26.84,13:03:17,Rain,light rain,3.6
+112,Tanjung Sepat,75,MY,06/29/2018,94,2.6599,101.5629,28.0,26.0,1011,Tanjung Sepat,27.11,13:03:18,Rain,light rain,1.5
+113,Mersing,36,MY,06/29/2018,87,2.4276,103.8364,29.85,29.85,1018.07,Mersing,29.85,13:03:19,Clouds,scattered clouds,3.91
+114,Labis,44,MY,06/29/2018,66,2.3836,103.0211,30.8,30.8,1007.21,Labis,30.8,13:03:20,Clouds,scattered clouds,2.51
+115,Marang,75,MY,06/29/2018,70,5.2056,103.2059,31.0,31.0,1009,Marang,31.0,13:03:21,Clouds,broken clouds,2.1
+116,Kuang,75,MY,06/29/2018,69,3.2554,101.5532,28.0,26.0,1012,Kuang,26.85,13:03:22,Rain,light rain,3.6
+117,Paka,75,MY,06/29/2018,70,4.6374,103.4368,30.0,30.0,1009,Paka,30.0,13:03:23,Clouds,broken clouds,2.1
+118,Bagan Serai,75,MY,06/29/2018,88,5.0118,100.5277,26.0,26.0,1011,Bagan Serai,26.0,13:03:24,Rain,light rain,2.1
+119,Alor Gajah,75,MY,06/29/2018,94,2.3832,102.2092,26.0,25.0,1011,Alor Gajah,25.59,13:03:25,Rain,light rain,4.71
+120,Batang Berjuntai,75,MY,06/29/2018,69,3.3833,101.4167,28.0,28.0,1012,Batang Berjuntai,28.0,13:03:26,Clouds,broken clouds,3.6
+121,Pelabuhan Klang,75,MY,06/29/2018,69,3.0028,101.3967,28.0,26.0,1012,Port Klang,26.93,13:03:27,Rain,light rain,3.6
+122,Batu Ferringhi,75,MY,06/29/2018,83,5.4683,100.2503,26.0,26.0,1010,Batu Ferringhi,26.0,13:03:28,Rain,light rain,4.6
+123,Gua Musang,0,MY,06/29/2018,72,4.8793,101.9652,29.6,29.6,986.62,Gua Musang,29.6,13:03:29,Clear,Sky is Clear,1.21
+124,Kuala Pilah,75,MY,06/29/2018,94,2.7421,102.2499,26.0,25.0,1011,Kuala Pilah,25.51,13:03:30,Rain,light rain,1.36
+125,Ranau,12,MY,06/29/2018,76,5.9511,116.6663,25.45,25.45,935.96,Ranau,25.45,13:03:30,Rain,light rain,0.86
+126,Papar,75,MY,06/29/2018,66,5.7336,115.9317,32.0,32.0,1009,Papar,32.0,13:03:31,Clouds,broken clouds,1.5
+127,Kampong Kadok,75,MY,06/29/2018,66,6,102.25,31.0,31.0,1009,Kampong Kadok,31.0,13:03:32,Clouds,broken clouds,1.5
+128,Kuala Kedah,75,MY,06/29/2018,79,6.1072,100.2935,29.0,29.0,1010,Kuala Kedah,29.0,13:03:33,Clouds,broken clouds,5.1
+129,Kampar,90,MY,06/29/2018,100,4.3071,101.1509,25.0,22.0,1013,Kampar,23.61,13:03:34,Rain,heavy intensity rain,2.1
+130,Pasir Mas,75,MY,06/29/2018,66,6.0495,102.1399,31.0,30.0,1009,Pasir Mas,30.42,13:03:35,Clouds,broken clouds,1.5
+131,Kampung Simpang Renggam,75,MY,06/29/2018,88,1.8278,103.3,26.0,26.0,1011,Kampung Simpang Renggam,26.0,13:03:36,Thunderstorm,thunderstorm,3.1
+132,Parit Raja,75,MY,06/29/2018,88,1.8681,103.1124,26.0,26.0,1011,Parit Raja,26.0,13:03:37,Thunderstorm,thunderstorm,3.1
+133,Bukit Rambai,75,MY,06/29/2018,94,2.2594,102.1838,25.0,25.0,1011,Bukit Rambai,25.0,13:03:38,Rain,light rain,4.71
+134,Sabak Bernam,90,MY,06/29/2018,88,3.7675,100.9875,25.0,25.0,1011,Sabak,25.0,13:03:39,Clouds,overcast clouds,2.1
+135,Kepala Batas,75,MY,06/29/2018,83,5.5147,100.4285,26.0,26.0,1010,Kepala Batas,26.0,13:03:40,Rain,light rain,4.6
+136,Kampung Tanjung Karang,75,MY,06/29/2018,69,3.4242,101.1849,28.0,28.0,1012,Kampung Tanjung Karang,28.0,13:03:41,Clouds,broken clouds,3.6
+137,Pantai Remis,90,MY,06/29/2018,88,4.4553,100.626,25.0,22.0,1011,Pantai Remis,23.38,13:03:42,Rain,heavy intensity rain,2.1
+138,Gurun,75,MY,06/29/2018,83,5.8178,100.4759,29.0,26.0,1010,Gurun,26.98,13:03:43,Rain,light rain,4.6
+139,Beaufort,75,MY,06/29/2018,79,5.3583,115.7564,32.0,30.0,1009,Beaufort,31.05,13:03:44,Clouds,broken clouds,2.1
+140,Kapit,56,MY,06/29/2018,79,2.0165,112.9399,27.85,27.85,998.05,Kapit,27.85,13:03:45,Rain,light rain,1.31
+141,Kinarut,75,MY,06/29/2018,66,5.8231,116.0466,32.0,32.0,1009,Kinarut,32.0,13:03:46,Clouds,broken clouds,1.5
+142,Kampung Ayer Molek,75,MY,06/29/2018,94,2.2139,102.3278,25.0,25.0,1011,Kampung Ayer Molek,25.0,13:03:47,Rain,light rain,2.21
+143,Kuala Lipis,12,MY,06/29/2018,90,4.187,102.0544,29.3,29.3,999.43,Kuala Lipis,29.3,13:03:47,Clouds,few clouds,1.86
+144,Pantai Cenang,75,MY,06/29/2018,74,6.3,99.72,-244.15,-244.15,1010,Chabang Wahid,-244.15,13:03:49,Clouds,broken clouds,2.6
+145,Bemban,75,MY,06/29/2018,94,2.268,102.3772,25.0,25.0,1011,Bemban,25.0,13:03:49,Rain,light rain,2.21
+146,Kuala Perlis,75,MY,06/29/2018,79,6.4007,100.1361,31.0,29.0,1010,Kuala Perlis,29.7,13:03:50,Clouds,broken clouds,5.1
+147,Sungai Pelek New Village,75,MY,06/29/2018,94,2.65,101.7,28.0,26.0,1011,Sungai Pelek New Village,27.15,13:03:51,Rain,light rain,1.5
+148,Jertih,75,MY,06/29/2018,66,5.7377,102.495,31.0,31.0,1009,Jertih,31.0,13:03:52,Clouds,broken clouds,1.5
+149,Kelapa Sawit,75,MY,06/29/2018,88,1.6803,103.5253,26.0,24.0,1011,Kelapa Sawit,24.72,13:03:53,Rain,moderate rain,1.5
+150,Buloh Kasap,75,MY,06/29/2018,94,2.5536,102.764,25.0,25.0,1011,Buloh Kasap,25.0,13:03:54,Rain,light rain,2.21
+151,Kota Belud,75,MY,06/29/2018,66,6.3498,116.4293,32.0,32.0,1009,Kota Belud,32.0,13:03:55,Clouds,broken clouds,1.5
+152,Kampung Bukit Tinggi,75,MY,06/29/2018,69,3.35,101.8167,28.0,26.0,1012,Kampung Bukit Tinggi,26.89,13:03:56,Rain,light rain,3.6
+153,Tumpat,75,MY,06/29/2018,66,6.1984,102.1682,31.0,30.0,1009,Tumpat,30.42,13:03:57,Clouds,broken clouds,1.5
+154,Kuala Sungai Baru,75,MY,06/29/2018,94,2.3579,102.0342,26.0,25.0,1011,Kuala Sungai Baru,25.55,13:03:58,Rain,light rain,4.71
+155,Juru,75,MY,06/29/2018,83,5.3159,100.4374,26.0,26.0,1010,Juru,26.0,13:03:59,Rain,light rain,4.6
+156,Pulau Sebang,75,MY,06/29/2018,94,2.4438,102.2306,26.0,25.0,1011,Pulau Sebang,25.58,13:04:00,Rain,light rain,4.71
+157,Chaah,44,MY,06/29/2018,66,2.2457,103.0416,30.8,30.8,1007.21,Chaah,30.8,13:04:01,Clouds,scattered clouds,2.51
+158,Ayer Hangat,75,MY,06/29/2018,74,6.43,99.81,-244.15,-244.15,1010,Kuah,-244.15,13:04:02,Clouds,broken clouds,2.6
+159,Telaga Batu,75,MY,06/29/2018,83,5.47,100.23,-247.15,-247.15,1010,Tanjung Tokong,-247.15,13:04:03,Rain,light rain,4.6
+160,Padang Mat Sirat,75,MY,06/29/2018,74,6.35,99.73,-244.15,-244.15,1010,Chabang Wahid,-244.15,13:04:05,Clouds,broken clouds,2.6
+161,Taman Rajawali,75,MY,06/29/2018,59,5.89,118.04,-241.15,-241.15,1008,Kampung Pamaguan,-241.15,13:04:06,Clouds,broken clouds,1.5
+162,Tanah Rata,90,MY,06/29/2018,100,4.4707,101.3777,22.0,22.0,1013,Tanah Rata,22.0,13:04:07,Rain,heavy intensity rain,2.1
